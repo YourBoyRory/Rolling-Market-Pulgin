@@ -1,0 +1,483 @@
+amethystblock:
+  max: 24.00
+  min: 16.00
+amethystshard:
+  max: 6.00
+  min: 4.00
+ancientdebris:
+  max: 270.00
+  min: 180.00
+apple:
+  max: 2.40
+  min: 1.60
+arrow:
+  max: 0.30
+  min: 0.20
+bakedpotato:
+  max: 6.00
+  min: 4.00
+bamboo:
+  max: 0.30
+  min: 0.20
+beef:
+  max: 1.20
+  min: 0.80
+beetroot:
+  max: 1.20
+  min: 0.80
+blazepowder:
+  max: 3.00
+  min: 2.00
+blazerod:
+  max: 6.00
+  min: 4.00
+bone:
+  max: 1.20
+  min: 0.80
+bowl:
+  max: 0.19
+  min: 0.13
+bread:
+  max: 3.60
+  min: 2.40
+brick:
+  max: 6.00
+  min: 4.00
+brownmushroom:
+  max: 6.00
+  min: 4.00
+cactus:
+  max: 6.00
+  min: 4.00
+carrot:
+  max: 0.60
+  min: 0.40
+chicken:
+  max: 1.20
+  min: 0.80
+clay:
+  max: 4.80
+  min: 3.20
+clayball:
+  max: 1.20
+  min: 0.80
+coal:
+  max: 6.00
+  min: 4.00
+coalblock:
+  max: 60.00
+  min: 40.00
+cocoabeans:
+  max: 2.40
+  min: 1.60
+cod:
+  max: 1.20
+  min: 0.80
+cookedbeef:
+  max: 6.00
+  min: 4.00
+cookedchicken:
+  max: 6.00
+  min: 4.00
+cookedcod:
+  max: 6.00
+  min: 4.00
+cookedmutton:
+  max: 6.00
+  min: 4.00
+cookedporkchop:
+  max: 6.00
+  min: 4.00
+cookedrabbit:
+  max: 6.00
+  min: 4.00
+cookedsalmon:
+  max: 6.00
+  min: 4.00
+cookie:
+  max: 0.30
+  min: 0.20
+copperblock:
+  max: 60.00
+  min: 40.00
+copperingot:
+  max: 4.80
+  min: 3.20
+cryingobsidian:
+  max: 120.00
+  min: 80.00
+diamond:
+  max: 240.00
+  min: 160.00
+diamondblock:
+  max: 2220.00
+  min: 1480.00
+dragonegg:
+  max: 12000.00
+  min: 8000.00
+egg:
+  max: 0.60
+  min: 0.40
+enchantedgoldenapple:
+  max: 1200.00
+  min: 800.00
+endereye:
+  max: 6.00
+  min: 4.00
+enderpearl:
+  max: 0.30
+  min: 0.20
+feather:
+  max: 1.20
+  min: 0.80
+flint:
+  max: 1.20
+  min: 0.80
+ghasttear:
+  max: 60.00
+  min: 40.00
+glowinksac:
+  max: 12.00
+  min: 8.00
+glowstone:
+  max: 24.00
+  min: 16.00
+glowstonedust:
+  max: 6.00
+  min: 4.00
+goldblock:
+  max: 276.00
+  min: 184.00
+goldenapple:
+  max: 60.00
+  min: 40.00
+goldingot:
+  max: 30.00
+  min: 20.00
+goldnugget:
+  max: 3.00
+  min: 2.00
+gunpowder:
+  max: 6.00
+  min: 4.00
+honeyblock:
+  max: 24.00
+  min: 16.00
+honeybottle:
+  max: 6.00
+  min: 4.00
+honeycomb:
+  max: 6.00
+  min: 4.00
+honeycombblock:
+  max: 24.00
+  min: 16.00
+inksac:
+  max: 3.60
+  min: 2.40
+ironblock:
+  max: 240.00
+  min: 160.00
+ironingot:
+  max: 26.40
+  min: 17.60
+ironnugget:
+  max: 2.64
+  min: 1.76
+kelp:
+  max: 0.30
+  min: 0.20
+lapisblock:
+  max: 60.00
+  min: 40.00
+lapislazuli:
+  max: 1.20
+  min: 0.80
+leather:
+  max: 6.00
+  min: 4.00
+magmacream:
+  max: 1.20
+  min: 0.80
+melonslice:
+  max: 0.60
+  min: 0.40
+mutton:
+  max: 1.20
+  min: 0.80
+netheriteingot:
+  max: 1500.00
+  min: 1000.00
+netheritescrap:
+  max: 300.00
+  min: 200.00
+netherstar:
+  max: 6000.00
+  min: 4000.00
+netherwart:
+  max: 0.60
+  min: 0.40
+obsidian:
+  max: 6.00
+  min: 4.00
+paper:
+  max: 0.60
+  min: 0.40
+phantommembrane:
+  max: 6.00
+  min: 4.00
+poisonouspotato:
+  max: 1.20
+  min: 0.80
+porkchop:
+  max: 1.20
+  min: 0.80
+potato:
+  max: 0.60
+  min: 0.40
+pumpkin:
+  max: 6.00
+  min: 4.00
+quartz:
+  max: 6.00
+  min: 4.00
+quartzblock:
+  max: 60.00
+  min: 40.00
+rabbit:
+  max: 1.20
+  min: 0.80
+rabbitfoot:
+  max: 24.00
+  min: 16.00
+rabbithide:
+  max: 1.50
+  min: 1.00
+rawcopper:
+  max: 2.88
+  min: 1.92
+rawgold:
+  max: 18.00
+  min: 12.00
+rawiron:
+  max: 15.00
+  min: 10.00
+redmushroom:
+  max: 6.00
+  min: 4.00
+redstone:
+  max: 1.20
+  min: 0.80
+redstoneblock:
+  max: 30.00
+  min: 20.00
+rottenflesh:
+  max: 0.16
+  min: 0.10
+salmon:
+  max: 1.20
+  min: 0.80
+slimeball:
+  max: 6.00
+  min: 4.00
+slimeblock:
+  max: 24.00
+  min: 16.00
+spidereye:
+  max: 0.60
+  min: 0.40
+stick:
+  max: 0.30
+  min: 0.20
+string:
+  max: 1.20
+  min: 0.80
+strippedlog:
+  max: 2.40
+  min: 1.60
+sugarcane:
+  max: 0.30
+  min: 0.20
+sweetberries:
+  max: 0.16
+  min: 0.10
+wheat:
+  max: 1.20
+  min: 0.80
+driedkelp:
+  max: 0.60
+  min: 0.40
+sugar:
+  max: 0.30
+  min: 0.20
+netherwartblock:
+  max: 5.40
+  min: 3.60
+driedkelpblock:
+  max: 5.40
+  min: 3.60
+oaklog:
+  max: 2.40
+  min: 1.60
+oaksapling:
+  max: 0.30
+  min: 0.20
+sprucesapling:
+  max: 0.30
+  min: 0.20
+birchsapling:
+  max: 0.30
+  min: 0.20
+junglesapling:
+  max: 0.30
+  min: 0.20
+acaciasapling:
+  max: 0.30
+  min: 0.20
+darkoaksapling:
+  max: 0.30
+  min: 0.20
+cherrysapling:
+  max: 0.30
+  min: 0.20
+greenwool:
+  max: 2.40
+  min: 1.60
+cyanwool:
+  max: 2.40
+  min: 1.60
+lightbluewool:
+  max: 2.40
+  min: 1.60
+bluewool:
+  max: 2.40
+  min: 1.60
+magentawool:
+  max: 2.40
+  min: 1.60
+purplewool:
+  max: 2.40
+  min: 1.60
+pinkwool:
+  max: 2.40
+  min: 1.60
+whitewool:
+  max: 2.40
+  min: 1.60
+lightgraywool:
+  max: 2.40
+  min: 1.60
+graywool:
+  max: 2.40
+  min: 1.60
+blackwool:
+  max: 2.40
+  min: 1.60
+brownwool:
+  max: 2.40
+  min: 1.60
+redwool:
+  max: 2.40
+  min: 1.60
+orangewool:
+  max: 2.40
+  min: 1.60
+yellowwool:
+  max: 2.40
+  min: 1.60
+limewool:
+  max: 2.40
+  min: 1.60
+acacialog:
+  max: 2.40
+  min: 1.60
+strippedoaklog:
+  max: 2.40
+  min: 1.60
+sprucelog:
+  max: 2.40
+  min: 1.60
+strippedsprucelog:
+  max: 2.40
+  min: 1.60
+birchlog:
+  max: 2.40
+  min: 1.60
+strippedbirchlog:
+  max: 2.40
+  min: 1.60
+junglelog:
+  max: 2.40
+  min: 1.60
+strippedjunglelog:
+  max: 2.40
+  min: 1.60
+strippedacacialog:
+  max: 2.40
+  min: 1.60
+darkoaklog:
+  max: 2.40
+  min: 1.60
+strippeddarkoaklog:
+  max: 2.40
+  min: 1.60
+mangrovelog:
+  max: 2.40
+  min: 1.60
+strippedmangrovelog:
+  max: 2.40
+  min: 1.60
+cherrylog:
+  max: 2.40
+  min: 1.60
+strippedcherrylog:
+  max: 2.40
+  min: 1.60
+wheatseeds:
+  max: 0.30
+  min: 0.20
+pumpkinseeds:
+  max: 0.30
+  min: 0.20
+melonseeds:
+  max: 0.30
+  min: 0.20
+torchflowerseeds:
+  max: 0.30
+  min: 0.20
+beetrootseeds:
+  max: 0.30
+  min: 0.20
+oakplanks:
+  max: 0.60
+  min: 0.40
+spruceplanks:
+  max: 0.60
+  min: 0.40
+birchplanks:
+  max: 0.60
+  min: 0.40
+jungleplanks:
+  max: 0.60
+  min: 0.40
+acaciaplanks:
+  max: 0.60
+  min: 0.40
+darkoakplanks:
+  max: 0.60
+  min: 0.40
+mangroveplanks:
+  max: 0.60
+  min: 0.40
+cherryplanks:
+  max: 0.60
+  min: 0.40
+bambooplanks:
+  max: 0.60
+  min: 0.40
+crimsonplanks:
+  max: 0.60
+  min: 0.40
+warpedplanks:
+  max: 0.60
+  min: 0.40
