@@ -1,4 +1,4 @@
 # Bin
 __pycache__/
-cache/
-*.yml
+download_cache/
+plugins/
