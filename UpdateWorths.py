@@ -1,7 +1,6 @@
 import yaml
 import random
 import csv
-from pprint import pprint
 from urllib.request import urlretrieve
 
 url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTFCLa96scKKGwVu77zSCAHW1JPs_Y8XswXykfGYYLUaJI7sV-pyar_BCkZlvKPiafMemV1jatSakg9/pub?output=csv"
